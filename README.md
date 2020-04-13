@@ -2,16 +2,8 @@
 
 # SNAKE GAME in Python 3 using curses library
 
-> Python development to play the classic snake game
-using OOP programming and curses python library.
+> Python code to play the classic snake game using OOP programming and curses python library.
 > Python 3.7
-
-**Status**
-
-- build status
-
-
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 ---
 
@@ -20,7 +12,9 @@ using OOP programming and curses python library.
 ```code
 
 cd snake
+
 python3 game.py
+
 ```
 
 ---
